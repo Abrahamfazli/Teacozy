@@ -1,0 +1,49 @@
+* {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+}
+
+#mission {
+  background-image:url("../images/leaves.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  width: 1200px;
+}
+
+#location {
+  background-image:url("../images/coffee.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  width: 1200px;
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+  margin: auto;
+}
+
+header {
+  background: black;
+  color: white;
+  height: 69px;
+}
+
+#store {
+  width: 1000px;
+}
+
+.item img {
+  height: 200px;
+  margin: 10px;
+  display: block;
+}
+
+footer {
+  text-align: left;
+}
